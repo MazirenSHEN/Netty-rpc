@@ -1,5 +1,5 @@
 # Introduction 
-**本人学习Netty后决定自己写1个基于Netty、Zookeeper、Spring的轻量级RPC框架，收获颇丰，不过本人才疏学浅，难免有所疏漏，若有批评和建议请发到邮箱ssyjs1031@gmail.com**
+**本人学习的一个基于Netty、Zookeeper、Spring的轻量级RPC框架，收获颇丰，不过本人才疏学浅，难免有所疏漏，若有批评和建议请发到邮箱ssyjs1031@gmail.com**
 
 
 # Features
